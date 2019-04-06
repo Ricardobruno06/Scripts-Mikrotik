@@ -1,5 +1,5 @@
 # by Ricardo Bruno 
-# RoterOS 6.44.1
+# RoterOS 6.44.2
 # VPN pptp configuration
 
 /ip pool
