@@ -1,6 +1,6 @@
-#by Ricardo Bruno
-#RouterOS 6.40.8
-#IPv6 configuration
+# by Ricardo Bruno 
+# RoterOS 6.44.1
+# IPv6 configuration
  
 add name=pool1-IPv6 prefix=2804:4fe8::/48 prefix-length=64
 add name=PoolPD prefix=2804:4fe8:1::/48 prefix-length=58
